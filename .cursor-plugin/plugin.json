@@ -5,7 +5,7 @@
   "description": "Cursor plugin for Askable UX research platform via MCP.",
   "author": {
     "name": "Askable",
-    "email": "plugins@askable.com"
+    "email": "developer@askable.com"
   },
   "license": "MIT",
   "keywords": ["cursor", "plugin", "mcp", "askable", "ux-research"],
